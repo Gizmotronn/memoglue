@@ -1,6 +1,8 @@
 # Navigation
 * [About DroidOS Python](http://irisdroidology.github.io/droidos-python/acord)
 
+>Success is a science, if you have the conditions, you can get the results.
+
 ## Python Tutorials
 * [Sololearn](http://irisdroidology.github.io/droidos-python/pythonnotes)
 * [Sololearn - Basic Concepts](http://irisdroidology.github.io/droidos-python/sololearnbasicconceptspython/)
