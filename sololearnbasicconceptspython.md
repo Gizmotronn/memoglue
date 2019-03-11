@@ -26,7 +26,8 @@
 * We can either use "xx" or 'xx'
 * The print statement can also be used to output multiple lines of text - see CODE (Your first program)
 
-
+### Questions
+* Fill in the blanks to print "Hi" - *print*("Hi")
 
 ## Basic Operations
 * Python is capable of conducting basic calculations
@@ -37,6 +38,3 @@
 
 ```print("Hello World")
 print("Second sentence")```
-
-### Questions
-* Fill in the blanks to print "Hi" - *print*("Hi")
