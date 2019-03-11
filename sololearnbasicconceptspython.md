@@ -26,7 +26,8 @@
 * We can either use "xx" or 'xx'
 * The print statement can also be used to output multiple lines of text - 
 
-```print("Hello World")
+```
+print("Hello World")
 
 print("Second sentence")```
 
