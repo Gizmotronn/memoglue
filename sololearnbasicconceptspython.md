@@ -29,12 +29,29 @@
 ### Questions
 * Fill in the blanks to print "Hi" - *print*("Hi")
 
-## Basic Operations
-* Python is capable of conducting basic calculations
+## Simple Operations
+* Python is capable of conducting simple calculations
+* You can enter a calculation directly into Python and it will output the result for you  (see CODE (Simple operations))
+* Python also carries out multiplication and division. 
+* Python uses the * (shift+8) key for multiplication and the / (forward slash) key for division
+* Parantheses () are used to determine which operations are performed first
+* The minus sign indicates a negative number
+* Operations are also performed on negative numbers
+* Dividing by zero in Python gives an error as no number can be divided by zero
+
+### Questions
+* What does this code output? (1+2+3) *6*
+* What is output by this code? ((4+8)/2) *6.0*
 
 # Code Examples
 
 ## Your first program
 
 ```print("Hello World")
-print("Second sentence")```
+print("Second sentence")
+```
+
+## Simple Operations
+```2+2
+Result = 4
+```
