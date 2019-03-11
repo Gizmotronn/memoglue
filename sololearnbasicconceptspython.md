@@ -32,7 +32,7 @@
 ## Basic Operations
 * Python is capable of conducting basic calculations
 
-#Code Examples
+# Code Examples
 
 ## Your first program
 
