@@ -1,5 +1,9 @@
 # Navigation
-* [About DroidOS Python](http://irisdroidology.github.io/droidos-python)
+* [About DroidOS Python](http://irisdroidology.github.io/droidos-python/acord)
+
+## Python Tutorials
+* [Sololearn](http://irisdroidology.github.io/droidos-python/pythonnotes)
+* [Sololearn - Basic Concepts](http://irisdroidology.github.io/droidos-python/sololearnbasicconceptspython/)
 
 ## ACORD Corporation Network
 
