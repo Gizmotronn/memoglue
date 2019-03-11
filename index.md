@@ -1,4 +1,7 @@
-ACORD Corporation Network
+# Navigation
+* [About DroidOS Python](http://irisdroidology.github.io/droidos-python)
+
+## ACORD Corporation Network
 
 * [Portal](http://allianceofdroids.org.au)
 * [Public Blog](http://blog.allianceofdroids.org.au)
@@ -7,7 +10,7 @@ ACORD Corporation Network
 
 Welcome to the DroidOS Python Page. This page is full of everything that you need to know to get the best open-source software suite for robots and personal computing devices.
 
-List of Python Tutorials:
+### List of Python Tutorials:
 * [Sololearn](http://sololearn.com)
 * [Techbeamers](https://www.techbeamers.com/python-tutorial-step-by-step/#tutorial-list)
 
