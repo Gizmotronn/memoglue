@@ -1,9 +1,9 @@
 ACORD Corporation Network
-*[Portal](http://allianceofdroids.org.au)
-*[Blog](http://blog.allianceofdroids.org.au)
-*[Chairman's Blog](http://liam.allianceofdroids.org.au)
-*[DroidOS Portal](http://droidos.allianceofdroids.org.au)
-*[Github](http://github.com/irisdroidology)
+
+* [Portal](http://allianceofdroids.org.au)
+* [Public Blog](http://blog.allianceofdroids.org.au)
+* [Chairman's Blog](http://liam.allianceofdroids.org.au)
+* [Github](http://github.com/irisdroidology)
 
 Welcome to the DroidOS Python Page. This page is full of everything that you need to know to get the best open-source software suite for robots and personal computing devices.
 
