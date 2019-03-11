@@ -8,3 +8,5 @@ Please check out our wiki and also check out the ACORD site: http://acord.allian
 
 Written by Liam Arbuckle (@IrisDroidology on Github), Chairman, ACORD
 Board: Liam Arbuckle, Ian Arbuckle, Nicholas Antipas (COO), Sean Firth, Dylan Crowe (CEO)
+
+* [Sololearn Python Tutorial](http://sololearn.com)
