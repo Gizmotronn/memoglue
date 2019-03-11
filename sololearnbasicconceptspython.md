@@ -1,5 +1,9 @@
 # Python - Sololearn Basic Concepts
 
+## What we learn
+* In Python, we use the print statement to output text - print("This is an example")
+* We use quotation marks around text that should be outputed in the console
+
 ## Welcome to Python
 * Python is a high-level programming language.
 * It has applications in numerous areas (for example, web programming, scientific computing, and artificial intelligence)
@@ -15,3 +19,14 @@
 * Python is a *programming language*
 
 * Which of these statements are true *Cpython is an implementation of Python*
+
+## Your first program
+* In Python, we use the print statement to output text
+* We use quotation marks around text that should be outputed in the console
+* The print statement can also be used to output multiple lines of text - 
+
+```print("Hello World")
+print("Second sentence")```
+
+### Questions
+* Fill in the blanks to print "Hi" - *print*("Hi")
