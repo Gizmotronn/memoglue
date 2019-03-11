@@ -23,6 +23,7 @@
 ## Your first program
 * In Python, we use the print statement to output text
 * We use quotation marks around text that should be outputed in the console
+* We can either use "xx" or 'xx'
 * The print statement can also be used to output multiple lines of text - 
 
 ```print("Hello World")
