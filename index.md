@@ -1,4 +1,15 @@
+ACORD Corporation Network
+*[Portal](http://allianceofdroids.org.au)
+*[Blog](http://blog.allianceofdroids.org.au)
+*[Chairman's Blog](http://liam.allianceofdroids.org.au)
+*[DroidOS Portal](http://droidos.allianceofdroids.org.au)
+*[Github](http://github.com/irisdroidology)
+
 Welcome to the DroidOS Python Page. This page is full of everything that you need to know to get the best open-source software suite for robots and personal computing devices.
+
+List of Python Tutorials:
+* [Sololearn](http://sololearn.com)
+* [Techbeamers](https://www.techbeamers.com/python-tutorial-step-by-step/#tutorial-list)
 
 DroidOS is a software suite owned and operated by ACoRD (Australian Corporation of Robotic Development) for our robots and games. ACORD is responsible for a number of games, including Haunted & Star Sailors. 
 
@@ -8,5 +19,3 @@ Please check out our wiki and also check out the ACORD site: http://acord.allian
 
 Written by Liam Arbuckle (@IrisDroidology on Github), Chairman, ACORD
 Board: Liam Arbuckle, Ian Arbuckle, Nicholas Antipas (COO), Sean Firth, Dylan Crowe (CEO)
-
-* [Sololearn Python Tutorial](http://sololearn.com)
