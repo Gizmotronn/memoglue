@@ -1,7 +1,5 @@
 # Python - Sololearn Basic Concepts
 
-[Simple Input & Output](##simple-input-and-output)
-
 ## What we learn
 * In Python, we use the print statement to output text - print("This is an example")
 * We use quotation marks around text that should be outputed in the console
@@ -82,6 +80,11 @@
 * This function prompts the user for an input, and returns what they answers as a __string__ (the contents are automatically __escaped__) (see Code Examples\Simple Input & Output)
 
 ## String Operations
+* As with integers and floats, strings can be added in Python, using a process called __concatenation__ which can be done on any 2 strings
+* Even if your strings contain numbers, they will be added as strings rather than as numbers (see Code Examples\String operations)
+* Strings can also be multiplied by integers (see Code Examples\String Operations)
+* The order of the string and the integer doesn't matter, but the string usually comes first
+* Strings can never be multiplied by floats
 
 # Code Examples
 
@@ -114,4 +117,13 @@ World!
 What's your name? (user enters "Liam")
 >>>print("Hello, " + name)
 Hello, Liam
+```
+
+## String Operations
+```print("1" + "1")
+11
+```
+
+```print("Example code" * 3)
+Example codeExample codeExample code
 ```
