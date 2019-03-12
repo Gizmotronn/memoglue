@@ -43,6 +43,35 @@
 * What does this code output? (1+2+3) *6*
 * What is output by this code? ((4+8)/2) *6.0*
 
+## Floats
+* Floats are used in Python to represent numbers that aren't integers
+* Some examples of numbers that are represented as floats are 0.5 and -7.82895
+* Floats can be created directly by entering a number with a decimal point, or  by using operations such as multiplication or division on integers
+* Extra zeroes at the end of the number are ignored
+* Dividing any 2 numbers by each other produces a float
+* A float is also produced by running an operation on 2 floats, or on a float and an integer
+
+### Questions
+* Which of these numbers will not be stored as a float? *7*
+
+## Other numerical operations
+* Exponentiation - Python also supports Exponentiation
+* Raising of one number to the power of another
+* This action is performed by using 2 asterisks (see Code examples|Other numerical operations)
+* Quotient & Remainder - To determine the quotient and remainder of a division, use the floor division and modulo operators, respectively.
+* Floor division is done using two forward slashes.
+* The modulo operator is carried out with a percent symbol (%).
+* These operators can be used with both floats and integers.
+
+## Strings
+* If you want to use text in Python, you have to use a string
+* A string is created by entering text between 1 or 2 quotation marks (' or ")
+* Some characters can't be used directly in a string
+* Double quotes can't be used in a string as they would end the line prematurely
+* Characters like these must be escaped by placing a backslash (\) before them
+* Newlines - Python provides an easy way to avoid manually writing \n to escape newlines in a string
+* Create a string with 3 sets of quotes, and newlines that are created by pressing enter are automatically escaped for you
+
 # Code Examples
 
 ## Your first program
@@ -54,4 +83,10 @@ print("Second sentence")
 ## Simple Operations
 ```2+2
 Result = 4
+```
+## Other numerical operations
+```2**5
+32
+2*5
+10
 ```
