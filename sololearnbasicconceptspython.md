@@ -74,7 +74,7 @@
 * Newlines - Python provides an easy way to avoid manually writing \n to escape newlines in a string
 * Create a string with 3 sets of quotes, and newlines that are created by pressing enter are automatically escaped for you
 
-(## Simple Input and Output)
+## Simple Input and Output
 * Usually, programs take an input and process it to produce an output
 * In Python, you can use the print function to produce an output
 * This creates a textual representation of something to the screen (see Code Examples\Simple Input & Output)
