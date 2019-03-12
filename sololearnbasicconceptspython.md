@@ -1,6 +1,6 @@
 # Python - Sololearn Basic Concepts
 
-[Simple Input & Output](#Simple-Input-And-Output)
+[Simple Input & Output](##Simple-Input-And-Output)
 
 ## What we learn
 * In Python, we use the print statement to output text - print("This is an example")
