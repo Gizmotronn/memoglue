@@ -1,5 +1,7 @@
 # Python - Sololearn Basic Concepts
 
+[Simple Input & Output](#Simple-Input-And-Output)
+
 ## What we learn
 * In Python, we use the print statement to output text - print("This is an example")
 * We use quotation marks around text that should be outputed in the console
@@ -72,6 +74,15 @@
 * Newlines - Python provides an easy way to avoid manually writing \n to escape newlines in a string
 * Create a string with 3 sets of quotes, and newlines that are created by pressing enter are automatically escaped for you
 
+(## Simple Input and Output)
+* Usually, programs take an input and process it to produce an output
+* In Python, you can use the print function to produce an output
+* This creates a textual representation of something to the screen (see Code Examples\Simple Input & Output)
+* To get input from the user in Python, you can use the input function
+* This function prompts the user for an input, and returns what they answers as a __string__ (the contents are automatically __escaped__) (see Code Examples\Simple Input & Output)
+
+## String Operations
+
 # Code Examples
 
 ## Your first program
@@ -89,4 +100,18 @@ Result = 4
 32
 2*5
 10
+```
+
+## Simple input & output
+```>>>print(1+1)
+2
+>>>print("Hello\nWorld!")
+Hello
+World!
+```
+
+```>>>name = input("What's your name?")
+What's your name? (user enters "Liam")
+>>>print("Hello, " + name)
+Hello, Liam
 ```
