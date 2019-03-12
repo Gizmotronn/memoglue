@@ -88,6 +88,9 @@
 * The order of the string and the integer doesn't matter, but the string usually comes first
 * Strings can never be multiplied by floats
 
+## Type Conversion
+* In Python, it's impossible to complete certain operations due to the types involved
+
 # Code Examples
 
 ## Your first program
