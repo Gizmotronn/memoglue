@@ -90,6 +90,12 @@
 
 ## Type Conversion
 * In Python, it's impossible to complete certain operations due to the types involved
+* For example, you can't add 2 and 3 together 2 form 5 as a string, because since 2 and 3 are both strings adding them together would form 23
+* The solution to this is __type conversion__
+* In the first example above, you would convert 2 and 3 to an int funciton (see Code Examples\Type Conversion)
+* Another example of type conversion is turning user input (which is a string) to numbers (integers or floats), to allow for the performance of calculations.
+
+## Variables
 
 # Code Examples
 
@@ -131,4 +137,17 @@ Hello, Liam
 
 ```print("Example code" * 3)
 Example codeExample codeExample code
+```
+
+## Type Conversion
+```print("2" + "3")
+23
+>>>int("2") + int("3")
+5
+```
+
+```>>> float(input("Enter a number: ")) + float(input("Enter another number: "))
+Enter a number: 40
+Enter another number: 2
+42.0
 ```
