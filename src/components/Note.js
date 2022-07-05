@@ -8,7 +8,7 @@ const Note = () => {
             </span>
             <div className="notes-footer">
                 <small>11/07/2021</small>
-                <MdDeleteForever />
+                <MdDeleteForever className='delete-icon' size='1.3em' />
             </div>
         </div>
     );
