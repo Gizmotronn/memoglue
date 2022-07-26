@@ -10,7 +10,14 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "bootstrap": "^4.4.1",
+    "browser-image-resizer": "^2.1.0",
+    "firebase": "^7.24.0",
+    "react-router-dom": "^5.1.2",
+    "react-toastify": "^5.5.0",
+    "reactstrap": "^8.4.1",
+    "uuid": "^7.0.2"
   },
   "scripts": {
     "start": "react-scripts start",

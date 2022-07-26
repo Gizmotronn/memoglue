@@ -16,6 +16,15 @@ Currently just building this as an experiment but am extremely interested in tur
 * Google Firebase -> DB for user notes & user settings
 * Moralis -> handles authentication & user logs
 
+## Project structure
+### `src` folder
+
+#### utils
+Config.js -> stores the configuration files for the Firebase server, as well as our Moralis instance
+
+## Project status
+Currently we have two separate react "pages" (mini react x2) -> a notes app like google keep, and a contacts app. The logic behind both is the same (they both talk to the same backend(s)), they just have a different style of rendering the content to the frontend.
+
 # Contributors
 * [Liam Arbuckle](https://la7.dev) -> Engineering maintainer
 * Josephine Tay -> Design consultant, market strategy
