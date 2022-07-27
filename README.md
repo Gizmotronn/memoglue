@@ -17,6 +17,7 @@ Currently just building this as an experiment but am extremely interested in tur
 * Moralis -> handles authentication & user logs
 
 ## Project structure
+Note: the client and server folders are not yet configured correctly with node scripts, so currently the root directory only contains the webapp (not the server)
 ### `src` folder
 
 #### utils
